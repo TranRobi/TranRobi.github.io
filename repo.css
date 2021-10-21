@@ -1,0 +1,50 @@
+body {
+    background-image: linear-gradient(to left , yellow, orange);
+}
+.linkek {
+    background-color: darkgray;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration-color: gray;
+}
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bekezdesek {
+    padding: 20px;
+}
+.caption1{
+    text-align: center;
+    border-radius: 30px;
+    width: 25%;
+    background-color: black;
+    color: gray;
+    font-size: 20px;
+    vertical-align: middle;
+}
+.pre{
+    margin-top: 20px;
+    padding: 20px;
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+    color: white;
+}
+.egysor {
+    column-span: 4;
+}
+.a1{
+    color: white;
+}
+caption{
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+    width: 25%;
+    border-radius: 30px;
+    background-color: gray;
+}
